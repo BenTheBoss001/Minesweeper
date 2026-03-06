@@ -20,7 +20,7 @@ void setup ()
     }
   }
 
-  for (int i = 0; i < (NUM_ROWS*NUM_COLS/3); i++) {
+  for (int i = 0; i < (NUM_ROWS*NUM_COLS/6); i++) {
     setMines();
   }
 }
