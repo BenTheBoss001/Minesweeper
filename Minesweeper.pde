@@ -1,6 +1,6 @@
 import de.bezier.guido.*;
-private int NUM_ROWS = 15;
-private int NUM_COLS = 15;
+private int NUM_ROWS = 10;
+private int NUM_COLS = 10;
 private MSButton[][] buttons;  //2d array of minesweeper buttons
 private ArrayList <MSButton> mines = new ArrayList<MSButton>(); //ArrayList of just the minesweeper buttons that are mined
 private boolean lost = false;
